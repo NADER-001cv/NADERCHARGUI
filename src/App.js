@@ -5,7 +5,7 @@ import 'react-simple-typewriter/dist/index.css'
 
 function App() {
   return (
-    <> 
+    <div> 
     <div className='App'>
     <h1
     style={{ paddingTop: '5rem', margin: 'auto 0', fontWeight: 'normal' }}
@@ -39,7 +39,7 @@ function App() {
             
 </div>
 
-</>
+</div>
 
 
 
