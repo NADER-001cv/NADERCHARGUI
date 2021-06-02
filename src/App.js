@@ -2,6 +2,7 @@ import React from 'react';
 import Wave from 'react-wavify';
 import Typewriter from 'react-simple-typewriter'
 import 'react-simple-typewriter/dist/index.css'
+import Footer from './footer/Footer';
 
 function App() {
   return (
@@ -38,7 +39,8 @@ function App() {
 
             
 </div>
-
+  
+<Footer/>
 </div>
 
 
