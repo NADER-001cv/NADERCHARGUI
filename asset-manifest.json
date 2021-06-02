@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NADERCHARGUI/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/NADERCHARGUI/static/js/main.61b0b03a.chunk.js",
+    "main.js.map": "/NADERCHARGUI/static/js/main.61b0b03a.chunk.js.map",
+    "runtime-main.js": "/NADERCHARGUI/static/js/runtime-main.2dced4c3.js",
+    "runtime-main.js.map": "/NADERCHARGUI/static/js/runtime-main.2dced4c3.js.map",
+    "static/css/2.29497be2.chunk.css": "/NADERCHARGUI/static/css/2.29497be2.chunk.css",
+    "static/js/2.5d048277.chunk.js": "/NADERCHARGUI/static/js/2.5d048277.chunk.js",
+    "static/js/2.5d048277.chunk.js.map": "/NADERCHARGUI/static/js/2.5d048277.chunk.js.map",
+    "static/js/3.ded283cb.chunk.js": "/NADERCHARGUI/static/js/3.ded283cb.chunk.js",
+    "static/js/3.ded283cb.chunk.js.map": "/NADERCHARGUI/static/js/3.ded283cb.chunk.js.map",
+    "index.html": "/NADERCHARGUI/index.html",
+    "static/css/2.29497be2.chunk.css.map": "/NADERCHARGUI/static/css/2.29497be2.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/NADERCHARGUI/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5d048277.chunk.js.LICENSE.txt": "/NADERCHARGUI/static/js/2.5d048277.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dced4c3.js",
+    "static/css/2.29497be2.chunk.css",
+    "static/js/2.5d048277.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.61b0b03a.chunk.js"
+  ]
+}
